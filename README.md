@@ -68,7 +68,7 @@ CF VPS Monitor 是一个轻量 VPS 探针面板，使用 Cloudflare Workers 承�
 
 ### 直接一键部署
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kadidalax/cf-vps-monitor)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wlkc-nox/cf-vps-monitor)
 
 1. 在 [Supabase](https://supabase.com/dashboard/) 创建或选择项目。
 2. 打开 Supabase 项目 **Project Overview** 页面复制 `Project URL`；打开 **Project Settings -> API Keys -> Publishable and secret API keys**，复制 **Secret keys** 中的 `default` Secret key，格式通常为 `sb_secret_...`。
